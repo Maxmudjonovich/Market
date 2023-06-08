@@ -1,0 +1,8 @@
+name=input("Familiya: ")
+print("Familiya" ,name)
+name1=input("ism: ")
+print("ism" ,name1)
+name2=input("Otasining ismi: ")
+print("Otasining ismi" ,name2)
+name3=input("Yosh: ")
+print("Yosh" ,name3)
